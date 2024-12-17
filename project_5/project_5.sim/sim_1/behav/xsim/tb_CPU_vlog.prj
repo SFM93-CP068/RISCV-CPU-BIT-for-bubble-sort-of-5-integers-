@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"C:/CloudMusic/core/ALU.v" \
+"C:/CloudMusic/core/ALUSrcMUX.v" \
+"C:/CloudMusic/core/Controller.v" \
+"C:/CloudMusic/core/DataMemory.v" \
+"C:/CloudMusic/core/Extender.v" \
+"C:/CloudMusic/core/InstrFetchUnit.v" \
+"C:/CloudMusic/core/MemtoRegMUX.v" \
+"C:/CloudMusic/core/RegFile.v" \
+"C:/CloudMusic/core/cpu.v" \
+"C:/CloudMusic/core/tb_CPU.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

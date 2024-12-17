@@ -1,0 +1,15 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/CloudMusic/core/ALU.v,1733675742,verilog,,C:/CloudMusic/core/ALUSrcMUX.v,,ALU,,,,,,,,
+C:/CloudMusic/core/ALUSrcMUX.v,1733481478,verilog,,C:/CloudMusic/core/Controller.v,,ALUSrcMUX,,,,,,,,
+C:/CloudMusic/core/Controller.v,1733674798,verilog,,C:/CloudMusic/core/DataMemory.v,,Controller,,,,,,,,
+C:/CloudMusic/core/DataMemory.v,1733535512,verilog,,C:/CloudMusic/core/Extender.v,,DataMemory,,,,,,,,
+C:/CloudMusic/core/Extender.v,1733481358,verilog,,C:/CloudMusic/core/InstrFetchUnit.v,,Extender,,,,,,,,
+C:/CloudMusic/core/InstrFetchUnit.v,1733624636,verilog,,C:/CloudMusic/core/MemtoRegMUX.v,,InstrFetchUnit,,,,,,,,
+C:/CloudMusic/core/MemtoRegMUX.v,1733481762,verilog,,C:/CloudMusic/core/RegFile.v,,MemtoRegMUX,,,,,,,,
+C:/CloudMusic/core/RegFile.v,1733537698,verilog,,C:/CloudMusic/core/cpu.v,,RegFile,,,,,,,,
+C:/CloudMusic/core/cpu.v,1733637584,verilog,,C:/CloudMusic/core/tb_CPU.v,,CPU,,,,,,,,
+C:/CloudMusic/core/tb_CPU.v,1733674998,verilog,,,,tb_CPU,,,,,,,,
+D:/Users/CN096/OS/project_5/project_5.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
